@@ -1,8 +1,8 @@
 Hello 👋,
 
-Here's where you'll be working. To accomplish your SuperDay task, we've provided with you a vanilla install of Docusaurus, a prebuilt documentation site. Its authoring and development features are documented here in this repo and on their [website](https://docusaurus.io/).
+Here's where you'll be working. To accomplish your SuperDay task, we've provided with you a vanilla install of Docusaurus, a prebuilt documentation site. Its authoring and development features are documented here in this repo and on their website.
 
-Consider this your canvas, blank page, or sandbox. The content and presentation of the final output are entirely up to you.
+Consider this your canvas, blank page, or sandbox. The final output – its contents and presentation – is entirely yours to create.
 
 # Website
 
